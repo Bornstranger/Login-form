@@ -1,0 +1,83 @@
+.login{
+    height: 500px;
+    width: 600px;
+    margin-top: 150px;
+    margin-left: 500px;
+    border-radius: 25px;
+    display: flex;
+    background-color: rgba(2, 12, 54, 0.859);
+}
+
+.pic{
+    background-image: url(lock.jpg);
+    height: 500px;
+    width: 250px;
+    text-align: center;
+    color: rgba(233, 222, 10, 0.757);
+    font-weight: bolder;
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 3rem;
+}
+
+.form{
+    background-color: rgba(2, 12, 54, 0.859);
+    width: 400px;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+
+h1{
+    color: rgba(233, 222, 10, 0.757);
+    text-align: center;
+    border-bottom: 2px solid black;
+}
+
+.email{
+    margin-left: 50px;
+    margin-bottom: 5px;
+    color: rgba(233, 222, 10, 0.757);
+    font-weight: bolder;
+    font-size: large;
+}
+
+input{
+    margin-left: 50px;
+    width: 250px;
+    height: 20px;
+}
+
+.password{
+    margin-left: 50px;
+    margin-bottom: 5px;
+    margin-top: 10px;
+    color: rgba(233, 222, 10, 0.757);
+    font-weight: bolder;
+    font-size: large;
+}
+
+button{
+    background-color: rgba(233, 10, 10, 0.55);
+    width: 75px;
+    height: 30px;
+    margin-left: 135px;
+    margin-bottom: 5px;
+    margin-top: 15px;
+    color: rgba(233, 222, 10, 0.757);
+    font-weight: bolder;
+    font-size: large;
+}
+
+.sign{
+    margin-left: 50px;
+    margin-bottom: 5px;
+    margin-top: 30px;
+    color: rgba(233, 222, 10, 0.757);;
+    font-weight: bolder;
+    font-size: large;
+}
+
+/* Completed */
